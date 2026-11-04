@@ -12,6 +12,10 @@ The Library Management System is a CIS 344 group project developed using PHP, My
 
 The application allows library staff to manage members, books, borrowing transactions, and returns. Library members can create accounts, log in, view available books, and review their borrowing information.
 
+## Demo Video
+
+🎥 [Watch the Library Management System Demo on Vimeo](https://vimeo.com/reviews/2189ade7-a91f-4ad0-a967-80d494782a7e/videos/1243109367)
+
 ## Technologies Used
 
 - PHP
